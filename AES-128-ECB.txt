@@ -1,0 +1,7 @@
+AES-128-ECB
+
+The AES electronic codebook mode encryption (ECB) 
+can be used for a range of cryptographic functions like hash generation, 
+digital signatures, and keystream generation for data encryption/decryption.
+The ECB encryption block supports 128 bit AES encryption.
+
